@@ -44,7 +44,7 @@ const urlSchema = `openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%2
   await requireConfig();
 cookiesArr = [
   'pt_key=AAJftypLADDGxpZyjqcGGHBKz1WoCqZKwVDOBnQmYUq_Hm4zi2cK46ZLNLZaCR-mqKmR4g99hT0; pt_pin=jd_5c2afabe89f08;',//账号一ck,例:pt_key=XXX;pt_pin=XXX;
-  'pt_key=AAJfq04XADAUlffy0h2UDSGrqAxD99r5D9UKJj1PY70W_27u8wqyhA74D2eb5w1P7AQ1UP-70To; pt_pin=jd_74c70b4a56226;',//账号二ck,例:pt_key=XXX;pt_pin=XXX;如有更多,依次类推
+  'pt_key=AAJf1zRCADDwp8ByTzAnrzjKo20TV9rLksWL_1Va2A82BDvHLoExnsypup9i8bzn8oWwDYyp6_s; pt_pin=jd_74c70b4a56226;',
 ]
   if (!cookiesArr[0]) {
     $.msg($.name, '【提示】请先获取京东账号一cookie\n直接使用NobyDa的京东签到获取', 'https://bean.m.jd.com/', {"open-url": "https://bean.m.jd.com/"});
