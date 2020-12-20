@@ -43,7 +43,7 @@ const urlSchema = `openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%2
 !(async () => {
   await requireConfig();
 cookiesArr = [
-  'pt_key=AAJftypLADDGxpZyjqcGGHBKz1WoCqZKwVDOBnQmYUq_Hm4zi2cK46ZLNLZaCR-mqKmR4g99hT0; pt_pin=jd_5c2afabe89f08;',//账号一ck,例:pt_key=XXX;pt_pin=XXX;
+  'pt_key=AAJf3w5lADDJmitG3tf8uqwLOrzgw401SbnhgJMcLIEMEacOAHb-oAGYSChqWq12586bqU6w2Cs; pt_pin=jd_5c2afabe89f08;',
   'pt_key=AAJf1zRCADDwp8ByTzAnrzjKo20TV9rLksWL_1Va2A82BDvHLoExnsypup9i8bzn8oWwDYyp6_s; pt_pin=jd_74c70b4a56226;',
 ]
   if (!cookiesArr[0]) {
