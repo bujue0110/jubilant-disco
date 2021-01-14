@@ -17,7 +17,7 @@
 
 var Key = 'pt_key=AAJf3w5lADDJmitG3tf8uqwLOrzgw401SbnhgJMcLIEMEacOAHb-oAGYSChqWq12586bqU6w2Cs; pt_pin=jd_5c2afabe89f08;'; //单引号内自行填写您抓取的Cookie
 
-var DualKey = 'pt_key=AAJf1zRCADDwp8ByTzAnrzjKo20TV9rLksWL_1Va2A82BDvHLoExnsypup9i8bzn8oWwDYyp6_s; pt_pin=jd_74c70b4a56226;'; //如需双账号签到,此处单引号内填写抓取的"账号2"Cookie, 否则请勿填写
+var DualKey = 'pt_key=AAJf_6LLADANQfL0DrmvOSaiKtebKhdlvSdbNzxbv_6qsIZcc-N4MQ8Fiv6S6gxH9WSsx8CWgeo; pt_pin=jd_74c70b4a56226;'; //如需双账号签到,此处单引号内填写抓取的"账号2"Cookie, 否则请勿填写
 
 /* 注1: 以上选项仅针对于JsBox或Node.js, 如果使用QX,Surge,Loon, 请使用脚本获取Cookie.
    注2: 双账号用户抓取"账号1"Cookie后, 请勿点击退出账号(可能会导致Cookie失效), 需清除浏览器资料或更换浏览器登录"账号2"抓取.
