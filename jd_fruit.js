@@ -43,7 +43,7 @@ const urlSchema = `openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%2
 !(async () => {
   await requireConfig();
 cookiesArr = [
-  'pt_key=AAJf3w5lADDJmitG3tf8uqwLOrzgw401SbnhgJMcLIEMEacOAHb-oAGYSChqWq12586bqU6w2Cs; pt_pin=jd_5c2afabe89f08;',
+  'pt_key=AAJgB40PADC820ZawRbTGdMkL3dAsj2X3KkTgsPRWN-bV95-3fKcGyCCfeeKnGNqHAJGp0qgZIs; pt_pin=jd_5c2afabe89f08;',
   'pt_key=AAJf_6LLADANQfL0DrmvOSaiKtebKhdlvSdbNzxbv_6qsIZcc-N4MQ8Fiv6S6gxH9WSsx8CWgeo; pt_pin=jd_74c70b4a56226;'
 ]
   if (!cookiesArr[0]) {
